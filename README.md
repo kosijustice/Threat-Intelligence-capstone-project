@@ -24,7 +24,7 @@ This project delivers an OSINT-driven cyber threat intelligence assessment on Ko
 3. Deploy threat detection & response mapped to MITRE ATT&CK TTPs of Scattered Spider & BlackCat.
 4. Monitor for Indicators of Compromise (IOCs) linked to targeted ransomware campaigns
 ## Impact
-This assessment highlights how publicly exposed assets can be leveraged by advanced threat actors to launch ransomware, phishing, and supply chain attacks. Proactive remediation and intelligence-driven monitoring will significantly reduce risk for The Home Depot and serve as a model for retail sector defense.
+This assessment highlights how publicly exposed assets can be leveraged by advanced threat actors to launch ransomware, phishing, and supply chain attacks. Proactive remediation and intelligence-driven monitoring will significantly reduce risk for The Kortnit and serve as a model for retail sector defense.
 
 
 📌 Sector: Retail
