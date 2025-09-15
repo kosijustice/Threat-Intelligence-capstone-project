@@ -30,3 +30,6 @@ This assessment highlights how publicly exposed assets can be leveraged by advan
 📌 Sector: Retail
 📌 Primary Domain: kortnit.com
 📌 Framework: MITRE ATT&CK
+
+see below the full report.
+[Kortnit osint report](https://github.com/kosijustice/Threat-Intelligence-capstone-project/blob/main/Github%20KORTNIT%20GROUP%20%E2%80%93%20OSINT%20Driven%20Threat%20Intelligence%20Assessment2%20-%20Google%20Docs.pdf)
