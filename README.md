@@ -2,7 +2,7 @@
 KORTNIT GROUP-OSINT Driven Threat Intelligence Assessment.
 
 ## Project Summary
-This project delivers an OSINT-driven cyber threat intelligence assessment on The Home Depot (kortnit.com), the world’s largest home improvement retailer. Using reconnaissance tools and the MITRE ATT&CK framework, the assessment identifies digital exposures, evaluates active ransomware groups targeting the retail sector, and provides risk-based recommendations.
+This project delivers an OSINT-driven cyber threat intelligence assessment on Kortnit (kortnit.com), the world’s largest home improvement retailer. Using reconnaissance tools and the MITRE ATT&CK framework, the assessment identifies digital exposures, evaluates active ransomware groups targeting the retail sector, and provides risk-based recommendations.
 
 ## Key Achievements
 1. Conducted OSINT Reconnaissance using Recon-NG, theHarvester, Shodan, Maltego, Sublist3r, and Amass.
@@ -19,4 +19,7 @@ This project delivers an OSINT-driven cyber threat intelligence assessment on Th
 3. Prior third-party data leaks may enable credential stuffing and identity-based attacks.
 4. Ransomware campaigns by Scattered Spider pose the greatest threat to retail operations.
 5. ## Recommendations
-6. 
+1. Implement attack surface reduction: regular domain/IP monitoring, asset inventory, and decommissioning unused infrastructure.
+2. Strengthen identity security: MFA hardening, employee security training, and phishing-resistant authentication.
+3. Deploy threat detection & response mapped to MITRE ATT&CK TTPs of Scattered Spider & BlackCat.
+4. Monitor for Indicators of Compromise (IOCs) linked to targeted ransomware campaigns
