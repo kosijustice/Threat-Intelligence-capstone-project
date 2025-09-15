@@ -18,7 +18,7 @@ This project delivers an OSINT-driven cyber threat intelligence assessment on Ko
 2. Exposure of emails & employee data elevates phishing/social engineering risks.
 3. Prior third-party data leaks may enable credential stuffing and identity-based attacks.
 4. Ransomware campaigns by Scattered Spider pose the greatest threat to retail operations.
-5. ## Recommendations
+## Recommendations
 1. Implement attack surface reduction: regular domain/IP monitoring, asset inventory, and decommissioning unused infrastructure.
 2. Strengthen identity security: MFA hardening, employee security training, and phishing-resistant authentication.
 3. Deploy threat detection & response mapped to MITRE ATT&CK TTPs of Scattered Spider & BlackCat.
