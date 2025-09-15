@@ -6,14 +6,14 @@ This project delivers an OSINT-driven cyber threat intelligence assessment on Ko
 
 ## Key Achievements
 1. Conducted OSINT Reconnaissance using Recon-NG, theHarvester, Shodan, Maltego, Sublist3r, and Amass.
-   ### Discovered:
+   ###  Discovered:
 1. 2000+ domain hosts
 2. 10+ exposed IP addresses
 3. Publicly available employee emails & personal data
 ### Profiled two active ransomware groups relevant to retail:
 1. Scattered Spider (UNC3944) – High-risk, retail-focused group exploiting MFA fatigue & helpdesk impersonation.
 2. ALPHV/BlackCat – Ransomware-as-a-Service group known for large-scale retail and e-commerce extortion.
-   ## Findings
+## Findings
 1. Kortnit’s broad digital footprint increases its attack surface.
 2. Exposure of emails & employee data elevates phishing/social engineering risks.
 3. Prior third-party data leaks may enable credential stuffing and identity-based attacks.
@@ -23,3 +23,10 @@ This project delivers an OSINT-driven cyber threat intelligence assessment on Ko
 2. Strengthen identity security: MFA hardening, employee security training, and phishing-resistant authentication.
 3. Deploy threat detection & response mapped to MITRE ATT&CK TTPs of Scattered Spider & BlackCat.
 4. Monitor for Indicators of Compromise (IOCs) linked to targeted ransomware campaigns
+## Impact
+This assessment highlights how publicly exposed assets can be leveraged by advanced threat actors to launch ransomware, phishing, and supply chain attacks. Proactive remediation and intelligence-driven monitoring will significantly reduce risk for The Home Depot and serve as a model for retail sector defense.
+
+
+📌 Sector: Retail
+📌 Primary Domain: kortnit.com
+📌 Framework: MITRE ATT&CK
